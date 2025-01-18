@@ -1,16 +1,22 @@
-# easy
+# Booking-Calendar-UI
 
-A new Flutter project.
+A Flutter-based Calendar UI designed to facilitate slot booking features for applications. This project aims to provide an intuitive interface for users to view and select available time slots. Currently Feature of a MediCare App Devdoot.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Interactive Calendar**: Users can easily navigate through dates and view available slots.
+- **Slot Selection**: Users can select and book time slots seamlessly.
+- **Responsive Design**: Optimized for various screen sizes and devices.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+Open the app to view the calendar.
+Click on a date to see available slots.
+Select a slot to book it.
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request for any changes.
